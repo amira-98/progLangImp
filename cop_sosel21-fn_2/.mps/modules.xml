@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/SoseL21/SoseL21.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/SoseL21/runtime/SoseL21.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/SoseL21.interpretor/SoSeL21.interpretor.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
